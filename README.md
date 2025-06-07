@@ -29,10 +29,10 @@ npm install
 ### 2. Add .env 
 Add the following Variables
 ```bash
-i) PORT => Enter Your Port Number e.g. 5000
-ii) MAX_IMAGES => Set Limitation to Upload Image e.g. 5
-iii) API_MAX_LIMIT => Set the count Number of API Limitation with in the following time limit e.g. 15  
-iv) API_MAX_LIMIT_TIME => Set How many API will hit per minutes e.g. 2 
+i) PORT // Enter Your Port Number e.g. 5000
+ii) MAX_IMAGES // Set Limitation to Upload Image e.g. 5
+iii) API_MAX_LIMIT // Set the count Number of API Limitation with in the following time limit e.g. 15  
+iv) API_MAX_LIMIT_TIME // Set How many API will hit per minutes e.g. 2 
 ```
 ### 3. To Run Server
 ```bash
